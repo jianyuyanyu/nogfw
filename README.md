@@ -10,9 +10,9 @@
 
 ##### <a href="http://158.247.193.181:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://158.247.193.181:10000/videos/sw/um4.8.apk?raw=true" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://158.247.193.181:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
-##### <a href="http://158.247.193.181:10000/videos/sw/oGate.apk" target="_blank">网门安卓版</a> &nbsp;  &nbsp; <a href="https://github.com/oGate2/oGate/blob/master/README.md" target="_blank">网门Web版</a>
+##### <a href="http://158.247.193.181:10000/videos/sw/oGate.apk" target="_blank">网门安卓版</a> 
 
-##### <a href="http://158.247.193.181:10000/videos/sw/oHopea.apk?raw=true" targe="_blank">希望之声安卓版免翻墙APP</a> &nbsp;  &nbsp; <a href="http://158.247.193.181:10000/videos/sw/iPPOTV.zip?raw=true" targe="_blank">爱博电视PC版</a> &nbsp;  &nbsp; <a href="http://158.247.193.181:10000/videos/sw/iNTD_TV.apk?raw=true" targe="_blank">新唐人电视安卓版</a>
+##### <a href="http://158.247.193.181:10000/videos/sw/oHopea.apk?raw=true" targe="_blank">希望之声安卓版免翻墙APP</a>
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
