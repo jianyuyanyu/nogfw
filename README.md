@@ -6,17 +6,17 @@
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news1/blob/master/README.md) 免翻墙直接看禁闻
 
 
-##### [新唐人电视直播](http://158.247.207.5/) &nbsp;  &nbsp; <a href="http://158.247.207.5:10000/videos/sw/fg788p.zip?raw=true" targe="_blank">自由门PC版7.88版</a> &nbsp;  &nbsp; <a href="http://158.247.207.5:10000/videos/sw/fgma42.apk?raw=true" targe="_blank">安卓版 4.2</a>
+##### [新唐人电视直播](http://158.247.206.248/) &nbsp;  &nbsp; <a href="http://158.247.206.248:10000/videos/sw/fg788p.zip?raw=true" targe="_blank">自由门PC版7.88版</a> &nbsp;  &nbsp; <a href="http://158.247.206.248:10000/videos/sw/fgma42.apk?raw=true" targe="_blank">安卓版 4.2</a>
 
-##### <a href="http://158.247.207.5:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://158.247.207.5:10000/videos/sw/um4.8.apk?raw=true" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://158.247.207.5:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
+##### <a href="http://158.247.206.248:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://158.247.206.248:10000/videos/sw/um4.8.apk?raw=true" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://158.247.206.248:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
-##### <a href="http://158.247.207.5:10000/videos/sw/oGate.apk" target="_blank">网门安卓版</a> 
+##### <a href="http://158.247.206.248:10000/videos/sw/oGate.apk" target="_blank">网门安卓版</a> 
 
-##### <a href="http://158.247.207.5:10000/videos/sw/oHopea.apk?raw=true" targe="_blank">希望之声安卓版免翻墙APP</a>
+##### <a href="http://158.247.206.248:10000/videos/sw/oHopea.apk?raw=true" targe="_blank">希望之声安卓版免翻墙APP</a>
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
-##### [使用Shadowsocks翻墙](https://github.com/gfw-breaker/guides/wiki)，请先下载安装 [Windows客户端](http://158.247.207.5:10000/videos/sw/Shadowsocks-4.1.6.zip?raw=true)、[安卓客户端](http://158.247.207.5:10000/videos/sw/shadowsocks--universal-4.7.4.apk?raw=true) 或 [Mac客户端](http://158.247.207.5:10000/videos/sw/ShadowsocksX-NG.app.1.8.2.zip?raw=true)，再前往 [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) 获取免费账号
+##### [使用Shadowsocks翻墙](https://github.com/gfw-breaker/guides/wiki)，请先下载安装 [Windows客户端](http://158.247.206.248:10000/videos/sw/Shadowsocks-4.1.6.zip?raw=true)、[安卓客户端](http://158.247.206.248:10000/videos/sw/shadowsocks--universal-4.7.4.apk?raw=true) 或 [Mac客户端](http://158.247.206.248:10000/videos/sw/ShadowsocksX-NG.app.1.8.2.zip?raw=true)，再前往 [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) 获取免费账号
 
 -----
 #### 更新公告
