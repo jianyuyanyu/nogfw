@@ -9,7 +9,7 @@
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news1/blob/master/README.md) 免翻墙直接看禁闻
 
 
-##### [新唐人电视直播](http://138.68.28.221/) &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fg788p.zip?raw=true" targe="_blank">自由门PC版7.88版</a> &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fgma42.apk?raw=true" targe="_blank">安卓版 4.2</a>
+##### <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fg788p.zip?raw=true" targe="_blank">自由门PC版7.88版</a> &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fgma42.apk?raw=true" targe="_blank">安卓版 4.2</a>
 
 ##### <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/um4.8.apk?raw=true" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
