@@ -6,7 +6,7 @@
 
 ##### <a href="http://138.68.38.236:10000/videos/sw/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://138.68.38.236:10000/videos/sw/um4.8.apk?raw=true" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://138.68.38.236:10000/videos/sw/ul?raw=true" targe="_blank">无界Linux版17.03</a>
 
-##### <a href="http://138.68.38.236:10000/videos/sw/oGate.apk" target="_blank">网门安卓版</a> 
+##### <a href="http://138.68.38.236:10000/videos/sw/oGate.apk" target="_blank">网门安卓版</a>  &nbsp;  &nbsp; <a href="http://138.68.38.236:10000/videos/sw/oGate.zip" target="_blank">网门电脑版</a>
 
 ##### <a href="http://138.68.38.236:10000/videos/sw/oHopea.apk?raw=true" targe="_blank">希望之声安卓版免翻墙APP</a>
 
