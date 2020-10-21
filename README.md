@@ -13,7 +13,7 @@
 
 ##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/u1902.zip" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/um4.8.apk" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/ul" targe="_blank">无界Linux版17.03</a>
 
-##### 网门免翻墙： <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea041.apk" target="_blank">安卓手机版</a>  &nbsp;  &nbsp; <a href="https://testflight.apple.com/join/x1bytm91" target="_blank">苹果手机版</a>&nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip" target="_blank">Windows电脑版</a>
+##### 网门免翻墙： <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/oGate.apk" target="_blank">安卓手机版</a>  &nbsp;  &nbsp; <a href="https://testflight.apple.com/join/x1bytm91" target="_blank">苹果手机版</a>&nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip" target="_blank">Windows电脑版</a>
 
 ##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/oHopea.apk" targe="_blank">希望之声安卓版免翻墙APP</a>
 
