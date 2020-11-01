@@ -6,16 +6,16 @@
 ##### 鉴于服务器频繁被封，请网友扫描二维码，免翻墙浏览全球精粹资源 - 头条、影视、音乐、书刊、直播
 <img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
 
-##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news1/blob/master/README.md) 免翻墙直接看禁闻
+##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news3/blob/master/README.md) 免翻墙直接看禁闻
 
 
-##### <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fg790p.zip?raw=true" targe="_blank">自由门PC版7.90版</a> &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/fgma43.apk?raw=true" targe="_blank">安卓版 4.3</a>
+##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/fg790p.zip" targe="_blank">自由门PC版7.90版</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/fgma43.apk" targe="_blank">安卓版 4.3</a>
 
-##### <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/u1902.zip?raw=true" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/um4.8.apk?raw=true" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/ul?raw=true" targe="_blank">无界Linux版17.03</a>
+##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/u1902.zip" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/um4.8.apk" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/ul" targe="_blank">无界Linux版17.03</a>
 
-##### <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/oGate.apk" target="_blank">网门安卓版</a> 
+##### 网门免翻墙： <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/oGate.apk" target="_blank">安卓手机版</a>  &nbsp;  &nbsp; <a href="https://testflight.apple.com/join/x1bytm91" target="_blank">苹果手机版</a>&nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip" target="_blank">Windows电脑版</a>
 
-##### <a href="https://github.com/gfw-breaker/nogfw/blob/master/binary/oHopea.apk?raw=true" targe="_blank">希望之声安卓版免翻墙APP</a>
+##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/oHopea.apk" targe="_blank">希望之声安卓版免翻墙APP</a>
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
