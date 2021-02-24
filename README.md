@@ -9,7 +9,7 @@
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news3/blob/master/README.md) 免翻墙直接看禁闻
 
 
-##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/fg791r.zip" targe="_blank">自由门PC版7.91版</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/fgma43.apk" targe="_blank">安卓版 4.3</a>
+##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/fg794.zip" targe="_blank">自由门PC版7.94版</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/fgma43.apk" targe="_blank">安卓版 4.3</a>
 
 ##### <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/u1902.zip" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/um4.8.apk" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/gfw-breaker/nogfw/binary/ul" targe="_blank">无界Linux版17.03</a>
 
@@ -24,6 +24,7 @@
 -----
 #### 更新公告
 
+##### 2021-02-24： 更新自由门PC版7.94
 ##### 2020-10-18:  更新自由门安卓版 4.3
 ##### 2020-07-07： 更新自由门PC版7.87
 ##### 2020-06-21： 更新自由门PC版7.84b1
