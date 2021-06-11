@@ -10,7 +10,7 @@
 
 ##### [安卓 HelloWorld 免翻墙](https://github.com/gfw-breaker/HelloWorld/blob/master/README.md)
 
-##### <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/fg796.zip" targe="_blank">自由门PC版7.96版</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/fgma50.apk" targe="_blank">安卓版 5.0</a>  &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/fgvpn.apk" targe="_blank">安卓自由门VPN 1.1</a>
+##### <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/fg796p.zip" targe="_blank">自由门PC版7.96版</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/fgma50.apk" targe="_blank">安卓版 5.0</a>  &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/fgvpn.apk" targe="_blank">安卓自由门VPN 1.1</a>
 
 ##### <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/u1902.zip" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/um4.8.apk" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/easy2view/nogfw/binary/ul" targe="_blank">无界Linux版17.03</a>
 
