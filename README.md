@@ -10,17 +10,17 @@
 
 ##### [安卓 HelloWorld 免翻墙](https://github.com/gfw-breaker/HelloWorld/blob/master/README.md)
 
-##### <a href="http://45.63.99.126:10000/videos/sw/binary/binary/fg797p.zip" targe="_blank">自由门PC版7.97版</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/binary/binary/fgma50.apk" targe="_blank">安卓版 5.0</a>  &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/binary/binary/fgvpn1.3.apk" targe="_blank">安卓自由门VPN 1.3</a>
+##### <a href="http://45.63.99.126:10000/videos/sw/fg797p.zip" targe="_blank">自由门PC版7.97版</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/fgma50.apk" targe="_blank">安卓版 5.0</a>  &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/fgvpn1.3.apk" targe="_blank">安卓自由门VPN 1.3</a>
 
-##### <a href="http://45.63.99.126:10000/videos/sw/binary/binary/u1902.zip" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/binary/binary/um4.8.apk" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/binary/binary/ul" targe="_blank">无界Linux版17.03</a>
+##### <a href="http://45.63.99.126:10000/videos/sw/u1902.zip" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/um4.8.apk" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/ul" targe="_blank">无界Linux版17.03</a>
 
-##### 网门免翻墙： <a href="http://45.63.99.126:10000/videos/sw/binary/binary/oGate.apk" target="_blank">安卓手机版</a>  &nbsp;  &nbsp; <a href="https://testflight.apple.com/join/x1bytm91" target="_blank">苹果手机版</a>&nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip" target="_blank">Windows电脑版</a>
+##### 网门免翻墙： <a href="http://45.63.99.126:10000/videos/sw/oGate.apk" target="_blank">安卓手机版</a>  &nbsp;  &nbsp; <a href="https://testflight.apple.com/join/x1bytm91" target="_blank">苹果手机版</a>&nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip" target="_blank">Windows电脑版</a>
 
-##### <a href="http://45.63.99.126:10000/videos/sw/binary/binary/oHopea.apk" targe="_blank">希望之声安卓版免翻墙APP</a>
+##### <a href="http://45.63.99.126:10000/videos/sw/oHopea.apk" targe="_blank">希望之声安卓版免翻墙APP</a>
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
-##### [使用Shadowsocks翻墙](https://github.com/gfw-breaker/guides/wiki)，请先下载安装 [Windows客户端](https://github.com/gfw-breaker/nogfw/blob/master/binary/Shadowsocks-4.1.6.zip?raw=true)、[安卓客户端](https://github.com/gfw-breaker/nogfw/blob/master/binary/shadowsocks--universal-4.7.4.apk?raw=true) 或 [Mac客户端](https://github.com/gfw-breaker/nogfw/blob/master/binary/ShadowsocksX-NG.app.1.8.2.zip?raw=true)，再前往 [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) 获取免费账号
+##### [使用Shadowsocks翻墙](https://github.com/gfw-breaker/guides/wiki)，请先下载安装 [Windows客户端](http://45.63.99.126:10000/videos/sw/Shadowsocks-4.1.6.zip?raw=true)、[安卓客户端](http://45.63.99.126:10000/videos/sw/shadowsocks--universal-4.7.4.apk?raw=true) 或 [Mac客户端](http://45.63.99.126:10000/videos/sw/ShadowsocksX-NG.app.1.8.2.zip?raw=true)，再前往 [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) 获取免费账号
 
 -----
 #### 更新公告
