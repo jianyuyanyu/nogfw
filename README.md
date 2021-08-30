@@ -12,7 +12,7 @@
 
 ##### <a href="http://45.63.99.126:10000/videos/sw/fg797p.zip" targe="_blank">自由门PC版7.97版</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/fgma50.apk" targe="_blank">安卓版 5.0</a>  &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/fgvpn1.3.apk" targe="_blank">安卓自由门VPN 1.3</a>
 
-##### <a href="http://45.63.99.126:10000/videos/sw/u1902.zip" targe="_blank">无界PC版19.02</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/um4.8.apk" targe="_blank">无界安卓版4.8</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/ul" targe="_blank">无界Linux版17.03</a>
+##### <a href="http://45.63.99.126:10000/videos/sw/u2132.exe" targe="_blank">无界PC版21.32</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/um.apk" targe="_blank">无界安卓版5.0</a> &nbsp;  &nbsp; <a href="http://45.63.99.126:10000/videos/sw/u2126" targe="_blank">无界Linux版21.26</a>
 
 ##### 网门免翻墙： <a href="http://45.63.99.126:10000/videos/sw/oGate.apk" target="_blank">安卓手机版</a>  &nbsp;  &nbsp; <a href="https://testflight.apple.com/join/x1bytm91" target="_blank">苹果手机版</a>&nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip" target="_blank">Windows电脑版</a>
 
